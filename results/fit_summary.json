@@ -1,0 +1,397 @@
+{
+  "n": 66,
+  "seed": 42,
+  "n_boot": 5000,
+  "intercept": 92.66928088614753,
+  "slope": -0.7079911557119922,
+  "slope_se_hc3": 0.05617244413617735,
+  "slope_ci95_boot": [
+    -0.817710067681662,
+    -0.5954458328903149
+  ],
+  "r2": 0.6519590867416685,
+  "r2_ci95_boot": [
+    0.501068209465345,
+    0.782469555719596
+  ],
+  "loo_cv_r2": 0.6329428019348788,
+  "resid_sd": 14.055694036494653,
+  "pua_split": 49.599999999999994,
+  "quadrant_counts": {
+    "higher unaffordability, lower MDD-W than predicted": 19,
+    "lower unaffordability, higher MDD-W than predicted": 18,
+    "lower unaffordability, lower MDD-W than predicted": 15,
+    "higher unaffordability, higher MDD-W than predicted": 14
+  },
+  "n_outside_pi95": 3,
+  "outside_pi95": [
+    "Armenia",
+    "Burkina Faso",
+    "Indonesia"
+  ],
+  "n_flagged": 21,
+  "flagged": [
+    {
+      "country": "Burundi",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Burkina Faso",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Bolivia (Plurinational State of)",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Switzerland",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "China, mainland",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 1.0
+    },
+    {
+      "country": "Cameroon",
+      "flag_exclusion": true,
+      "flag_phone": false,
+      "flag_unverified": false,
+      "excluded_pct": 20.0
+    },
+    {
+      "country": "Algeria",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Gabon",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Gambia",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Greece",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Iran (Islamic Republic of)",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Lao People's Democratic Republic",
+      "flag_exclusion": true,
+      "flag_phone": false,
+      "flag_unverified": false,
+      "excluded_pct": 14.0
+    },
+    {
+      "country": "Lebanon",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Morocco",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Republic of Moldova",
+      "flag_exclusion": true,
+      "flag_phone": false,
+      "flag_unverified": false,
+      "excluded_pct": 13.0
+    },
+    {
+      "country": "Madagascar",
+      "flag_exclusion": true,
+      "flag_phone": false,
+      "flag_unverified": false,
+      "excluded_pct": 17.0
+    },
+    {
+      "country": "Mexico",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    },
+    {
+      "country": "Mauritius",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Rwanda",
+      "flag_exclusion": false,
+      "flag_phone": false,
+      "flag_unverified": true,
+      "excluded_pct": NaN
+    },
+    {
+      "country": "Chad",
+      "flag_exclusion": true,
+      "flag_phone": false,
+      "flag_unverified": false,
+      "excluded_pct": 23.0
+    },
+    {
+      "country": "Viet Nam",
+      "flag_exclusion": false,
+      "flag_phone": true,
+      "flag_unverified": false,
+      "excluded_pct": 0.0
+    }
+  ],
+  "top_positive": [
+    {
+      "country": "Indonesia",
+      "pua": 69.7,
+      "mddw": 86.1,
+      "resid": 42.8,
+      "std_resid": 3.3,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": true
+    },
+    {
+      "country": "Armenia",
+      "pua": 57.0,
+      "mddw": 83.1,
+      "resid": 30.8,
+      "std_resid": 2.3,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": true
+    },
+    {
+      "country": "Kyrgyzstan",
+      "pua": 40.6,
+      "mddw": 87.9,
+      "resid": 24.0,
+      "std_resid": 1.7,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Lao People's Democratic Republic",
+      "pua": 56.6,
+      "mddw": 73.4,
+      "resid": 20.8,
+      "std_resid": 1.5,
+      "mddw_source_group": "GDQP",
+      "any_flag": true,
+      "outside_pi95": false
+    },
+    {
+      "country": "Guatemala",
+      "pua": 50.0,
+      "mddw": 77.8,
+      "resid": 20.5,
+      "std_resid": 1.5,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Uganda",
+      "pua": 74.6,
+      "mddw": 58.8,
+      "resid": 18.9,
+      "std_resid": 1.4,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Iraq",
+      "pua": 27.1,
+      "mddw": 91.2,
+      "resid": 17.7,
+      "std_resid": 1.3,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Algeria",
+      "pua": 41.8,
+      "mddw": 79.3,
+      "resid": 16.3,
+      "std_resid": 1.2,
+      "mddw_source_group": "GDQP",
+      "any_flag": true,
+      "outside_pi95": false
+    },
+    {
+      "country": "Costa Rica",
+      "pua": 52.5,
+      "mddw": 71.4,
+      "resid": 15.9,
+      "std_resid": 1.1,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Iran (Islamic Republic of)",
+      "pua": 38.5,
+      "mddw": 81.3,
+      "resid": 15.9,
+      "std_resid": 1.1,
+      "mddw_source_group": "GDQP",
+      "any_flag": true,
+      "outside_pi95": false
+    }
+  ],
+  "top_negative": [
+    {
+      "country": "Burkina Faso",
+      "pua": 65.3,
+      "mddw": 17.5,
+      "resid": -28.9,
+      "std_resid": -2.1,
+      "mddw_source_group": "Other",
+      "any_flag": true,
+      "outside_pi95": true
+    },
+    {
+      "country": "Malaysia",
+      "pua": 1.9,
+      "mddw": 62.9,
+      "resid": -28.4,
+      "std_resid": -2.1,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Comoros",
+      "pua": 49.8,
+      "mddw": 32.0,
+      "resid": -25.5,
+      "std_resid": -1.9,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Nepal",
+      "pua": 22.7,
+      "mddw": 55.7,
+      "resid": -20.9,
+      "std_resid": -1.5,
+      "mddw_source_group": "DHS",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Lesotho",
+      "pua": 77.1,
+      "mddw": 18.3,
+      "resid": -19.8,
+      "std_resid": -1.4,
+      "mddw_source_group": "DHS",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Guinea",
+      "pua": 48.6,
+      "mddw": 39.2,
+      "resid": -19.0,
+      "std_resid": -1.4,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Ethiopia",
+      "pua": 72.3,
+      "mddw": 24.1,
+      "resid": -17.4,
+      "std_resid": -1.3,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "C\u00f4te d'Ivoire",
+      "pua": 50.0,
+      "mddw": 40.5,
+      "resid": -16.8,
+      "std_resid": -1.2,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Liberia",
+      "pua": 60.8,
+      "mddw": 33.9,
+      "resid": -15.7,
+      "std_resid": -1.1,
+      "mddw_source_group": "GDQP",
+      "any_flag": false,
+      "outside_pi95": false
+    },
+    {
+      "country": "Mali",
+      "pua": 61.4,
+      "mddw": 33.5,
+      "resid": -15.7,
+      "std_resid": -1.1,
+      "mddw_source_group": "DHS",
+      "any_flag": false,
+      "outside_pi95": false
+    }
+  ],
+  "pua_plus_loggdp": {
+    "pua_coef": -0.4387009561953616,
+    "pua_p": 5.90577694179629e-05,
+    "log_gdp_coef": 9.63212765782475,
+    "log_gdp_p": 0.001987266322713858,
+    "r2": 0.7125314250687709
+  },
+  "region_fe": {
+    "pua_coef": -0.38675547847404534,
+    "r2": 0.7809131189754259
+  }
+}

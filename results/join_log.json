@@ -1,0 +1,182 @@
+{
+  "n_mddw_countries": 79,
+  "n_panel": 66,
+  "max_gap_years": 2,
+  "dropped": [
+    {
+      "country": "Afghanistan",
+      "iso3": "AFG",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Georgia",
+      "iso3": "GEO",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Cambodia",
+      "iso3": "KHM",
+      "reason": "no CoAHD within +/-2y of 2022"
+    },
+    {
+      "country": "Libya",
+      "iso3": "LBY",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Oman",
+      "iso3": "OMN",
+      "reason": "no CoAHD within +/-2y of 2017"
+    },
+    {
+      "country": "Somalia",
+      "iso3": "SOM",
+      "reason": "no CoAHD within +/-2y of 2023"
+    },
+    {
+      "country": "Thailand",
+      "iso3": "THA",
+      "reason": "no CoAHD within +/-2y of 2023"
+    },
+    {
+      "country": "Tajikistan",
+      "iso3": "TJK",
+      "reason": "no CoAHD within +/-2y of 2023"
+    },
+    {
+      "country": "Timor-Leste",
+      "iso3": "TLS",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Ukraine",
+      "iso3": "UKR",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Venezuela (Bolivarian Republic of)",
+      "iso3": "VEN",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Vanuatu",
+      "iso3": "VUT",
+      "reason": "no CoAHD data"
+    },
+    {
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "reason": "no CoAHD within +/-2y of 2022"
+    }
+  ],
+  "missing_gdp": [],
+  "missing_wb_meta": [],
+  "missing_coverage_meta": [],
+  "year_gap_counts": {
+    "0": 66
+  },
+  "flag_counts": {
+    "flag_exclusion": 5,
+    "flag_phone": 10,
+    "flag_unverified": 6
+  },
+  "source_priority": {
+    "n_panel": 66,
+    "dropped": [
+      {
+        "country": "Cambodia",
+        "iso3": "KHM",
+        "reason": "no CoAHD within +/-2y of 2022"
+      },
+      {
+        "country": "Somalia",
+        "iso3": "SOM",
+        "reason": "no CoAHD within +/-2y of 2019"
+      },
+      {
+        "country": "Tajikistan",
+        "iso3": "TJK",
+        "reason": "no CoAHD within +/-2y of 2023"
+      },
+      {
+        "country": "Timor-Leste",
+        "iso3": "TLS",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Vanuatu",
+        "iso3": "VUT",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Zimbabwe",
+        "iso3": "ZWE",
+        "reason": "no CoAHD within +/-2y of 2018"
+      },
+      {
+        "country": "Afghanistan",
+        "iso3": "AFG",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Georgia",
+        "iso3": "GEO",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Libya",
+        "iso3": "LBY",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Oman",
+        "iso3": "OMN",
+        "reason": "no CoAHD within +/-2y of 2017"
+      },
+      {
+        "country": "Thailand",
+        "iso3": "THA",
+        "reason": "no CoAHD within +/-2y of 2023"
+      },
+      {
+        "country": "Ukraine",
+        "iso3": "UKR",
+        "reason": "no CoAHD data"
+      },
+      {
+        "country": "Venezuela (Bolivarian Republic of)",
+        "iso3": "VEN",
+        "reason": "no CoAHD data"
+      }
+    ],
+    "changed": [
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "mddw": 40.48,
+        "mddw_source_group": "GDQP",
+        "mddw_year": 2023,
+        "mddw_pri": 29.4,
+        "mddw_source_group_pri": "DHS",
+        "mddw_year_pri": 2021
+      },
+      {
+        "country": "Kyrgyzstan",
+        "mddw": 87.9,
+        "mddw_source_group": "GDQP",
+        "mddw_year": 2022,
+        "mddw_pri": 69.5,
+        "mddw_source_group_pri": "Other",
+        "mddw_year_pri": 2021
+      },
+      {
+        "country": "Sierra Leone",
+        "mddw": 45.08,
+        "mddw_source_group": "GDQP",
+        "mddw_year": 2023,
+        "mddw_pri": 56.4,
+        "mddw_source_group_pri": "DHS",
+        "mddw_year_pri": 2019
+      }
+    ]
+  }
+}

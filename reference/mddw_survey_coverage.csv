@@ -1,0 +1,70 @@
+iso3,year,source_group,n_interviews,design_effect,mode,fieldwork,excluded_pct,coverage_note,reference
+ALB,2022,GDQP,1000,1.65,Face-to-face,2022-09-01 to 2022-10-13,2,Remote/difficult-access rural areas excluded,Gallup DQQ data collection details 2021-2024
+DZA,2024,GDQP,1007,1.54,Mobile telephone,2024-09-25 to 2024-10-20,0,,Gallup DQQ data collection details 2021-2024
+ARM,2022,GDQP,1003,1.71,Face-to-face,2022-09-08 to 2022-10-19,3,Settlements near disputed territories excluded,Gallup DQQ data collection details 2021-2024
+BGD,2022,GDQP,1000,1.27,Face-to-face,2022-02-27 to 2022-03-30,0,,Gallup DQQ data collection details 2021-2024
+BEN,2021,GDQP,1000,1.47,Face-to-face,2021-07-26 to 2021-08-14,0,,Gallup DQQ data collection details 2021-2024
+BOL,2021,GDQP,1002,2.03,Mobile telephone,2021-08-11 to 2021-09-06,0,Phone frame,Gallup DQQ data collection details 2021-2024
+BIH,2024,GDQP,1000,1.46,Face-to-face,2024-05-21 to 2024-08-22,0,,Gallup DQQ data collection details 2021-2024
+CMR,2021,GDQP,1000,1.42,Face-to-face,2021-06-08 to 2021-07-01,20,Extreme North / Northwest / South West arrondissements excluded for insecurity; small neighbourhoods excluded,Gallup DQQ data collection details 2021-2024
+TCD,2022,GDQP,1000,1.72,Face-to-face,2022-10-09 to 2022-11-12,23,Seven regions excluded (security/terrain) plus North Kanem and Bahr El Gazal North,Gallup DQQ data collection details 2021-2024
+CHN,2021,GDQP,3500,2.40,Mobile telephone,2021-09-26 to 2021-12-16,1,Tibet excluded; phone frame,Gallup DQQ data collection details 2021-2024
+COM,2023,GDQP,1000,1.86,Face-to-face,2023-09-20 to 2023-11-23,0,,Gallup DQQ data collection details 2021-2024
+COG,2023,GDQP,1000,1.84,Face-to-face,2023-06-29 to 2023-08-18,0,,Gallup DQQ data collection details 2021-2024
+CRI,2023,GDQP,1000,1.47,Face-to-face,2023-09-27 to 2023-12-28,0,,Gallup DQQ data collection details 2021-2024
+CIV,2023,GDQP,1000,2.07,Face-to-face,2023-07-08 to 2023-08-03,9.2,PSUs with population < 100 excluded,Gallup DQQ data collection details 2021-2024
+EGY,2021,GDQP,1006,1.49,Face-to-face,2021-09-04 to 2021-09-25,2,Frontier governorates excluded,Gallup DQQ data collection details 2021-2024
+ETH,2023,GDQP,1000,1.51,Face-to-face,2023-06-26 to 2023-08-10,7,Tigray Gambella Harari excluded (conflict),Gallup DQQ data collection details 2021-2024
+GAB,2021,GDQP,1000,2.19,Mobile telephone,2021-10-10 to 2021-10-31,0,Phone frame,Gallup DQQ data collection details 2021-2024
+GRC,2021,GDQP,1009,2.03,Landline and mobile telephone,2021-08-30 to 2021-09-24,0,Phone frame,Gallup DQQ data collection details 2021-2024
+GTM,2023,GDQP,1000,1.79,Face-to-face,2023-08-16 to 2023-12-22,0,,Gallup DQQ data collection details 2021-2024
+GIN,2023,GDQP,1000,1.73,Face-to-face,2023-09-21 to 2023-10-12,0,,Gallup DQQ data collection details 2021-2024
+HND,2022,GDQP,1000,1.51,Face-to-face,2022-08-20 to 2022-10-03,0,,Gallup DQQ data collection details 2021-2024
+IDN,2021,GDQP,1062,1.42,Face-to-face,2021-07-07 to 2021-10-15,0,,Gallup DQQ data collection details 2021-2024
+IRN,2023,GDQP,1007,1.29,Landline and mobile telephone,2023-10-23 to 2023-10-27,0,Phone frame; 5-day fieldwork,Gallup DQQ data collection details 2021-2024
+IRQ,2024,GDQP,1000,1.50,Face-to-face,2024-08-20 to 2024-11-24,0,,Gallup DQQ data collection details 2021-2024
+KAZ,2021,GDQP,1000,1.46,Face-to-face,2021-09-03 to 2021-10-19,0,,Gallup DQQ data collection details 2021-2024
+KGZ,2022,GDQP,1000,1.62,Face-to-face,2022-10-05 to 2022-10-28,0,,Gallup DQQ data collection details 2021-2024
+LAO,2021,GDQP,1000,1.49,Face-to-face,2021-08-30 to 2021-12-14,14,Xaisomboun and Xayaboury provinces and some communes excluded (security/access); Attapu and Houaphan excluded (COVID red zones),Gallup DQQ data collection details 2021-2024
+LBR,2023,GDQP,1002,1.37,Face-to-face,2023-08-03 to 2023-09-11,0,,Gallup DQQ data collection details 2021-2024
+MDG,2023,GDQP,1000,1.50,Face-to-face,2023-06-25 to 2023-08-13,17,Unsafe or unreachable regions excluded,Gallup DQQ data collection details 2021-2024
+MYS,2023,GDQP,1000,1.68,Face-to-face,2023-08-21 to 2023-11-10,0,,Gallup DQQ data collection details 2021-2024
+MRT,2023,GDQP,1000,1.39,Face-to-face,2023-07-27 to 2023-08-22,4,Some communes in Hodh Ech Chargui and Hodh El Gharbi excluded,Gallup DQQ data collection details 2021-2024
+MEX,2022,GDQP,1003,1.86,Landline and mobile telephone,2021-11-09 to 2022-02-01,0,Phone frame,Gallup DQQ data collection details 2021-2024
+MNG,2023,GDQP,1000,1.28,Face-to-face,2023-07-31 to 2023-09-22,0,,Gallup DQQ data collection details 2021-2024
+MAR,2021,GDQP,1004,1.75,Mobile telephone,2021-11-12 to 2021-11-28,0,Phone frame,Gallup DQQ data collection details 2021-2024
+NER,2022,GDQP,1000,1.58,Face-to-face,2022-09-22 to 2022-10-18,8,Communes in Agadez and Diffa excluded (insecurity); PSUs < 25 households excluded,Gallup DQQ data collection details 2021-2024
+MKD,2024,GDQP,1005,1.38,Face-to-face,2024-06-20 to 2024-09-13,0,,Gallup DQQ data collection details 2021-2024
+PAK,2021,GDQP,1002,1.72,Face-to-face,2021-10-16 to 2021-12-14,5,AJK and Gilgit-Baltistan excluded,Gallup DQQ data collection details 2021-2024
+PER,2023,GDQP,1000,1.29,Face-to-face,2023-08-09 to 2023-10-09,0,,Gallup DQQ data collection details 2021-2024
+MDA,2023,GDQP,1000,2.00,Face-to-face,2023-07-06 to 2023-09-25,13,Transnistria excluded,Gallup DQQ data collection details 2021-2024
+SRB,2024,GDQP,1000,1.31,Face-to-face,2024-05-20 to 2024-08-16,0,,Gallup DQQ data collection details 2021-2024
+SLE,2023,GDQP,1000,1.25,Face-to-face,2023-12-02 to 2023-12-25,0,,Gallup DQQ data collection details 2021-2024
+CHE,2023,GDQP,1000,1.92,Landline and mobile telephone,2023-07-10 to 2023-08-12,0,Phone frame,Gallup DQQ data collection details 2021-2024
+TUN,2022,GDQP,1000,1.28,Face-to-face,2022-08-13 to 2022-08-28,0,,Gallup DQQ data collection details 2021-2024
+UGA,2021,GDQP,1000,1.54,Face-to-face,2021-09-12 to 2021-10-03,2,Three northern districts excluded (security),Gallup DQQ data collection details 2021-2024
+UZB,2022,GDQP,1000,1.46,Face-to-face,2022-07-06 to 2022-09-08,6,Karakalpakstan excluded,Gallup DQQ data collection details 2021-2024
+VNM,2021,GDQP,1007,2.56,Mobile telephone,2021-11-13 to 2021-12-12,0,Phone frame,Gallup DQQ data collection details 2021-2024
+AGO,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS; women 15-49 sample typically 10k-40k,DHS Program final report
+COD,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+GHA,2022,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+JOR,2023,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+KEN,2022,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+LSO,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+MWI,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+MLI,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS; check report for insecure-area exclusions,DHS Program final report
+MOZ,2023,DHS,,,Face-to-face household survey,multi-month,0,National DHS (2022-23),DHS Program FR389
+NPL,2022,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+NGA,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS; check report for insecure-area exclusions,DHS Program final report
+SEN,2023,DHS,,,Face-to-face household survey,multi-month,0,National continuous DHS,DHS Program final report
+TZA,2022,DHS,,,Face-to-face household survey,2022-02 to 2022-07,0,National DHS,DHS Program final report
+ZMB,2024,DHS,,,Face-to-face household survey,multi-month,0,National DHS,DHS Program final report
+BFA,2023,Other,,,Face-to-face household survey (SMART),unknown,,SMART nutrition survey; coverage and exclusions of insecure areas not verified here,FAOSTAT SDG 2.2.4 note
+BDI,2023,Other,,,Face-to-face household survey (CFSVA),unknown,,WFP CFSVA; national coverage assumed; not verified here,FAOSTAT SDG 2.2.4 note
+GMB,2018,Other,,,Face-to-face household survey,unknown,,Gambia Micronutrient Survey 2018; national; not verified here,FAOSTAT SDG 2.2.4 note
+LBN,2023,Other,,,Face-to-face household survey,unknown,,LIMA survey; population scope (incl. refugee populations) not verified here,FAOSTAT SDG 2.2.4 note
+MUS,2022,Other,,,Face-to-face household survey,unknown,,Mauritius Nutrition Survey; national assumed; not verified here,FAOSTAT SDG 2.2.4 note
+RWA,2021,Other,,,Face-to-face household survey (CFSVA),unknown,,WFP CFSVA; national coverage assumed; not verified here,FAOSTAT SDG 2.2.4 note
+CIV,2021,DHS,,,Face-to-face household survey,multi-month,0,National DHS 2021,DHS Program final report
+SLE,2019,DHS,,,Face-to-face household survey,multi-month,0,National DHS 2019,DHS Program final report
+KGZ,2021,Other,,,Face-to-face household survey,unknown,,NIMAS Kyrgyz Republic 2021; national assumed; not verified here,FAOSTAT SDG 2.2.4 note

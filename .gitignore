@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints/
+# data is re-created by scripts/01_download.py + 02_build_panel.py (public FAOSTAT / World Bank)
+data/
+.vscode/
