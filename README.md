@@ -5,6 +5,8 @@ Quick quantitative note. Across countries with both indicators, how much of wome
 countries deviate most from that relationship? The residual is a proxy for the *non-price* constraint
 (markets, culture, retail environment, information) — the thing SOFI 2026 says cost reduction alone won't fix.
 
+![Women's dietary diversity (MDD-W) plotted against the share of the population unable to afford a healthy diet (PUA) for 66 countries, with OLS fit, ±1 residual-SD band, and notable countries labelled](figures/fig1_affordability_quality_gap.png)
+
 ## Data
 
 | Input | Source | Notes |
